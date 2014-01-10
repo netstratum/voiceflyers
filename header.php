@@ -58,16 +58,18 @@
 				<div class="top-line">
 					<div class="container">
 						<p>
-							<span><i class="fa fa-phone"></i>1234 - 5678 - 9012</span>
-							<span><i class="fa fa-envelope-o"></i>support@voiceflyers.com</span>
+							<span><i class="fa fa-phone"></i>+91 949 633 4414</span>
+							<span><i class="fa fa-envelope-o"></i>contact@voiceflyers.com</span>
 						</p>
 						<ul class="social-icons">
-							<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
-							<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+							<li><a class="facebook" href="https://www.facebook.com/VFlyers"><i class="fa fa-facebook"></i></a></li>
+							<li><a class="twitter" href="https://twitter.com/VoiceFlyers"><i class="fa fa-twitter"></i></a></li>
+							<li><a class="google" href="https://plus.google.com/115546068023724910044"><i class="fa fa-google-plus"></i></a></li>
+							<!--
 							<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
 							<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+							<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+							-->
 						</ul>
 					</div>
 				</div>
@@ -84,15 +86,15 @@
 						<ul class="nav navbar-nav navbar-right">
 
 							<li class="drop"><a class="active" href="index.php">Home</a>
-							</li>
-							<li><a href="about.php">About Us</a></li>
+							</li>							
 							<li class="drop"><a href="services.php">Services</a>
-							<ul class="drop-down">
+								<ul class="drop-down">
 									<li><a href="#">A</a></li>
 									<li><a href="#">B</a></li>
 									<li><a href="#">C</a></li>
 								</ul>
 							</li>
+							<li><a href="about.php">About Us</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
 
 						</ul>

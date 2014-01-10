@@ -1,57 +1,9 @@
 <!-- footer 
 			================================================== -->
 		<footer>
-			<div class="up-footer">
-				<div class="container">
-					<div class="row">
-
-						<div class="col-md-3">
-							<div class="widget footer-widgets text-widget">
-								<img alt="" src="images/voiceflyers.png">
-								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem</p>
-							</div>
-					
-						</div>
-
-						<div class="col-md-3">
-							<div class="widget footer-widgets message-widget">
-								<h4>Send Message</h4>
-								<form id="footer-contact" class="contact-work-form">
-									<input type="text" name="name" id="name" placeholder="Name"/>
-									<input type="text" name="mail" id="mail" placeholder="Email"/>
-									<textarea name="comment" id="comment" placeholder="Message"></textarea>
-									<button type="submit" name="contact-submit" class="submit_contact">
-										<i class="fa fa-envelope"></i> Send
-									</button>
-									<div class="msg"></div>
-								</form>
-							</div>
-						</div>
-
-						<div class="col-md-3">
-						
-							
-						</div>
-
-						<div class="col-md-3">
-							<div class="widget footer-widgets info-widget">
-								<h4>Contact Us</h4>
-								<ul class="contact-list">
-									<li><a class="phone" href="#"><i class="fa fa-phone"></i>9930 1234 5679</a></li>
-									<li><a class="mail" href="#"><i class="fa fa-envelope"></i> contact@yourdomain.com</a></li>
-									<li><a class="address" href="#"><i class="fa fa-home"></i> street address example</a></li>
-								</ul>
-							</div>
-						
-						</div>
-
-					</div>
-				</div>
-			</div>
-
 			<div class="footer-line">
 				<div class="container">
-					<p>&#169; 2013 Voice Flyers,  All Rights Reserved</p>
+					<p>&#169; 2014 Voice Flyers,  All Rights Reserved</p>
 					<a class="go-top" href="#"></a>
 				</div>
 			</div>

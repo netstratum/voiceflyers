@@ -20,8 +20,8 @@
 								<h3>Contact info</h3>
 								<ul class="contact-information-list">
 									<li><span><i class="fa fa-home"></i>lorem ipsum street</span></li>
-									<li><span><i class="fa fa-phone"></i>9930 1234 5679</span></li>
-									<li><a href="#"><i class="fa fa-envelope"></i>info@orbit7.com</a></li>
+									<li><span><i class="fa fa-phone"></i>+91 949 633 4414</span></li>
+									<li><a href="#"><i class="fa fa-envelope"></i>contact@voiceflyers.com</a></li>
 								</ul>
 							</div>
 						</div>
