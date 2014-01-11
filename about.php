@@ -16,7 +16,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<span class="anchor" id="company"></span
+							<span class="anchor" id="company"></span>
 							<div class="services-post">
 								<a class="services-icon1" href="#"><i class="fa fa-users"></i></a>
 								<div class="services-post-content">
@@ -41,7 +41,7 @@
 
 					<div class="row">
 						<div class="col-md-12">
-							<span class="anchor" id="whatwedo"></span
+							<span class="anchor" id="whatwedo"></span>
 							<div class="services-post">
 								<a class="services-icon2" href="#"><i class="fa fa-bullhorn"></i></a>
 								<div class="services-post-content">
