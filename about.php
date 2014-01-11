@@ -17,7 +17,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="services-post">
-								<a class="services-icon1" href="#"><i class="fa fa-users"></i></a>
+								<a class="services-icon1" name="company" href="#"><i class="fa fa-users"></i></a>
 								<div class="services-post-content">
 									<h3>COMPANY</h3>
 									<p>Voice Flyers is a company that is into new age marketing of products and services focusing 
@@ -41,7 +41,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="services-post">
-								<a class="services-icon2" href="#"><i class="fa fa-bullhorn"></i></a>
+								<a class="services-icon2" name="whatwedo" href="#"><i class="fa fa-bullhorn"></i></a>
 								<div class="services-post-content">
 									<h3>WHAT WE DO</h3>
 									<p>Voice Flyers as a company has access to more than 1,00,000 registered users who are willing to 
@@ -65,7 +65,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="services-post">
-								<a class="services-icon3" href="#"><i class="fa fa-phone"></i></a>
+								<a class="services-icon3" name="whyvf" href="#"><i class="fa fa-phone"></i></a>
 								<div class="services-post-content">
 									<h3>WHY VOICE FLYERS</h3>
 									<p>With more advertising companies than the actual number of existing brands, it would be 
@@ -92,7 +92,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="services-post">
-								<a class="services-icon3" href="#"><i class="fa fa-tachometer"></i></a>
+								<a class="services-icon3" name="analysis" href="#"><i class="fa fa-tachometer"></i></a>
 								<div class="services-post-content">
 									<h3>INTERPHASE &amp; ANALYSIS</h3>
 									<p>A proper mapping of the ads played, relative to each client is done by the software, designed so 
@@ -111,7 +111,6 @@
 						</div>
 					</div>
 				</div>
-				<img class="shadow-image" alt="" src="images/shadow.png">
 			</div>
 		</div>
 		<!-- End content -->

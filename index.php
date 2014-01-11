@@ -278,6 +278,8 @@
 										budding entrepreneurs, the company has its office at Cochin. The operations were launched 
 										in January 2014, providing customized services to different clients, who aims to create or 
 										reinforce the brand awareness of their products or services among the customers....
+										<br>
+										<a href="about.php#company">Read More</a>
 									</p>
 								</div>
 							</div>
@@ -292,6 +294,8 @@
 										avail our service and synchronize our service with their telecom system. The audio ad streams 
 										played between the end of the dial and beginning of the call is the time slot where Voice Flyers 
 										subconsciously reinforces the brands of the clients into the minds of the customers....
+										<br>
+										<a href="about.php#whatwedo">Read More</a>
 									</p>
 								</div>
 							</div>
@@ -311,6 +315,8 @@
 										reinforcement. Here is where Voice Flyers has a USP that distinguishes our self from the 
 										other advertisement firms. Here at Voice Flyers, we concentrate our focus on delivering real 
 										One to One ads to the customers....
+										<br>
+										<a href="about.php#whyvf">Read More</a>
 									</p>
 								</div>
 							</div>
@@ -325,6 +331,8 @@
 										as to enable the clients to get a proper tracking of the ads together with providing exclusivity of 
 										the ads relative to the end customer. The software is programmed in such a way that it ensures 
 										that the same ads are not repeatedly streamed to the same customers consecutively....
+										<br>
+										<a href="about.php#analysis">Read More</a>
 									</p>
 								</div>
 							</div>
