@@ -87,15 +87,8 @@
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
 
-							<li class="drop"><a class="active" href="index.php">Home</a>
-							</li>							
-							<li class="drop"><a href="services.php">Services</a>
-								<ul class="drop-down">
-									<li><a href="#">A</a></li>
-									<li><a href="#">B</a></li>
-									<li><a href="#">C</a></li>
-								</ul>
-							</li>
+							<li><a class="active" href="index.php">Home</a></li>							
+							<li><a href="services.php">Services</a></li>
 							<li><a href="about.php">About Us</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
 

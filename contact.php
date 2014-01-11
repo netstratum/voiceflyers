@@ -15,17 +15,18 @@
 				<div class="container">
 					<div class="row">
 
-						<div class="col-md-3">
+						<div class="col-md-6">
 							<div class="contact-information">
 								<h3>Contact info</h3>
 								<ul class="contact-information-list">
-									<li><span><i class="fa fa-home"></i>lorem ipsum street</span></li>
+									<li><span><i class="fa fa-phone"></i>+91 949 535 4864</span></li>
+									<li><span><i class="fa fa-phone"></i>+91 967 761 5130</span></li>
 									<li><span><i class="fa fa-phone"></i>+91 949 633 4414</span></li>
 									<li><a href="#"><i class="fa fa-envelope"></i>support@voiceflyers.com</a></li>
 								</ul>
 							</div>
 						</div>
-
+						<!-- 
 						<div class="col-md-3">
 							<div class="contact-information">
 								<h3>Working hours</h3>
@@ -34,7 +35,7 @@
 								<p class="work-time"><span>Sat - Sun</span> : 10 AM to 2 PM</p>
 							</div>
 						</div>
-
+						-->
 						<div class="col-md-6">
 							<h3>Send us a message</h3>
 							<form id="contact-form" class="contact-work-form2">

@@ -44,7 +44,7 @@
 						</div>
 
 					</div>
-
+					<br><br>
 					<h3>Pricings</h3>
 					<div class="row">
 
@@ -131,7 +131,6 @@
 					</div>
 				</div>
 			</div>
-			<img class="shadow-image" alt="" src="images/shadow.png">
 		</div>
 		<!-- End content -->
 
