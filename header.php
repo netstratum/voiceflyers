@@ -60,7 +60,7 @@
 				<div class="top-line">
 					<div class="container">
 						<p>
-							<span><i class="fa fa-phone"></i>+91 949 633 4414</span>
+							<span><i class="fa fa-phone"></i>+91 949 535 4864</span>
 							<span><i class="fa fa-envelope-o"></i>support@voiceflyers.com</span>
 						</p>
 						<ul class="social-icons">
@@ -86,12 +86,10 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-
 							<li><a class="active" href="index.php">Home</a></li>							
 							<li><a href="services.php">Services</a></li>
 							<li><a href="about.php">About Us</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
-
 						</ul>
 					</div>
 				</div>

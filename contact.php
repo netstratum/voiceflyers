@@ -6,8 +6,8 @@
 				<div class="container">
 					<h2>Contact US</h2>
 					<ul class="page-tree">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Contact Us</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -21,7 +21,6 @@
 								<ul class="contact-information-list">
 									<li><span><i class="fa fa-phone"></i>+91 949 535 4864</span></li>
 									<li><span><i class="fa fa-phone"></i>+91 967 761 5130</span></li>
-									<li><span><i class="fa fa-phone"></i>+91 949 633 4414</span></li>
 									<li><a href="#"><i class="fa fa-envelope"></i>support@voiceflyers.com</a></li>
 								</ul>
 							</div>

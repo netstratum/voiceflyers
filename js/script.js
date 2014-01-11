@@ -6,6 +6,10 @@ var $ = jQuery.noConflict();
 $(document).ready(function($) {
 	"use strict";
 
+	$('.nav li a').click(function(e){
+		console.log("clicked" + e);
+	});
+
 	/*-------------------------------------------------*/
 	/* =  portfolio isotope
 	/*-------------------------------------------------*/
