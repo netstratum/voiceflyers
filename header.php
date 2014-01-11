@@ -10,6 +10,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+	<link rel="icon" type="image/ico" href="images/favicon.ico" />
+
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,700,600,300' rel='stylesheet' type='text/css'>
 
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen">
