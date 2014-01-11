@@ -13,7 +13,39 @@
 			</div>
 			<div class="pricing-box">
 				<div class="container">
-					<h3>Our Pricings</h3>
+					<h3>Products</h3>
+					<div class="row">
+
+						<div class="col-md-4">
+							<h4>Gold</h4>
+							<p>A proper mapping of the ads played, relative to each client is done by the software, designed so 
+								as to enable the clients to get a proper tracking of the ads together with providing exclusivity of 
+								the ads relative to the end customer. The software is programmed in such a way that it ensures 
+								that the same ads are not repeatedly streamed to the same customers consecutively.
+							</p>
+						</div>
+
+						<div class="col-md-4">
+							<h4>Diamond</h4>
+							<p>A proper mapping of the ads played, relative to each client is done by the software, designed so 
+								as to enable the clients to get a proper tracking of the ads together with providing exclusivity of 
+								the ads relative to the end customer. The software is programmed in such a way that it ensures 
+								that the same ads are not repeatedly streamed to the same customers consecutively.
+							</p>
+						</div>
+
+						<div class="col-md-4">
+							<h4>Platinum</h4>
+							<p>A proper mapping of the ads played, relative to each client is done by the software, designed so 
+								as to enable the clients to get a proper tracking of the ads together with providing exclusivity of 
+								the ads relative to the end customer. The software is programmed in such a way that it ensures 
+								that the same ads are not repeatedly streamed to the same customers consecutively.
+							</p>
+						</div>
+
+					</div>
+
+					<h3>Pricings</h3>
 					<div class="row">
 
 						<div class="col-md-4">
@@ -99,6 +131,7 @@
 					</div>
 				</div>
 			</div>
+			<img class="shadow-image" alt="" src="images/shadow.png">
 		</div>
 		<!-- End content -->
 
