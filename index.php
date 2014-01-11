@@ -268,7 +268,7 @@
 				<div class="container">
 					<div class="row">
 
-						<div class="col-md-3">
+						<div class="col-md-6">
 							<div class="services-post">
 								<a class="services-icon1" href="#"><i class="fa fa-users"></i></a>
 								<div class="services-post-content">
@@ -283,7 +283,7 @@
 							</div>
 						</div>
 
-						<div class="col-md-3">
+						<div class="col-md-6">
 							<div class="services-post">
 								<a class="services-icon2" href="#"><i class="fa fa-bullhorn"></i></a>
 								<div class="services-post-content">
@@ -296,8 +296,12 @@
 								</div>
 							</div>
 						</div>
+					
+					</div>
 
-						<div class="col-md-3">
+					<div class="row">
+
+						<div class="col-md-6">
 							<div class="services-post">
 								<a class="services-icon3" href="#"><i class="fa fa-phone"></i></a>
 								<div class="services-post-content">
@@ -312,7 +316,7 @@
 							</div>
 						</div>
 
-						<div class="col-md-3">
+						<div class="col-md-6">
 							<div class="services-post">
 								<a class="services-icon3" href="#"><i class="fa fa-tachometer"></i></a>
 								<div class="services-post-content">
