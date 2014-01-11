@@ -119,7 +119,7 @@
 		</div>
 		<!-- End content -->
 <script type="text/javascript">
-	$(document).ready(function($) {
+	jQuery(document).ready(function($) {
 		jQuery('.nav li a:eq(2)').addClass('active');
 	}
 </script>
