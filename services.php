@@ -23,19 +23,22 @@
 									<span>Brand Reinforcement Ads</span>
 								</li>
 								<li>
-									<p>10GB Disk Space</p>
+									<p>7,000 ads in 1 week - Rs 10,000</p>
 								</li>
 								<li>
-									<p>100GB Monthly Bandwidth</p>
+									<p>15,000 ads in 1 month - Rs 25,000</p>
 								</li>
 								<li>
-									<p>20 Email Accounts</p>
+									<p>30,000 ads in 3 month - Rs 50,000</p>
 								</li>
 								<li>
-									<p>1 Domain</p>
+									<p>45,000 ads in 3 month - Rs 75,000</p>
 								</li>
 								<li>
-									<p>1 Subdomain</p>
+									<p>60,000 ads in 6 months - Rs 90,000</p>
+								</li>
+								<li>
+									<p>1,20,000 ads in 1 year - Rs 1,80,000</p>
 								</li>
 								<li>
 									<a href="#">Order Now</a>
@@ -50,19 +53,22 @@
 									<span>Product/Service Intro Ads</span>
 								</li>
 								<li>
-									<p>50GB Disk Space</p>
+									<p>7,000 ads in 1 week - Rs 10,000</p>
 								</li>
 								<li>
-									<p>500GB Monthly Bandwidth</p>
+									<p>15,000 ads in 1 month - Rs 25,000</p>
 								</li>
 								<li>
-									<p>50 Email Accounts</p>
+									<p>30,000 ads in 3 month - Rs 50,000</p>
 								</li>
 								<li>
-									<p>10 Domain</p>
+									<p>45,000 ads in 3 month - Rs 75,000</p>
 								</li>
 								<li>
-									<p>5 Subdomain</p>
+									<p>60,000 ads in 6 months - Rs 90,000</p>
+								</li>
+								<li>
+									<p>1,20,000 ads in 1 year - Rs 1,80,000</p>
 								</li>
 								<li>
 									<a href="#">Order Now</a>
@@ -77,19 +83,22 @@
 									<span>Information Ads</span>
 								</li>
 								<li>
-									<p>Unlimited Disk Space</p>
+									<p>7,000 ads in 1 week - Rs 10,000</p>
 								</li>
 								<li>
-									<p>Unlimited Monthly Bandwidth</p>
+									<p>15,000 ads in 1 month - Rs 25,000</p>
 								</li>
 								<li>
-									<p>200 Email Accounts</p>
+									<p>30,000 ads in 3 month - Rs 50,000</p>
 								</li>
 								<li>
-									<p>Unlimited Domain</p>
+									<p>45,000 ads in 3 month - Rs 75,000</p>
 								</li>
 								<li>
-									<p>Unlimited Subdomain</p>
+									<p>60,000 ads in 6 months - Rs 90,000</p>
+								</li>
+								<li>
+									<p>1,20,000 ads in 1 year - Rs 1,80,000</p>
 								</li>
 								<li>
 									<a href="#">Order Now</a>
