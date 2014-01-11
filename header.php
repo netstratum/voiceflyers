@@ -59,7 +59,7 @@
 					<div class="container">
 						<p>
 							<span><i class="fa fa-phone"></i>+91 949 633 4414</span>
-							<span><i class="fa fa-envelope-o"></i>contact@voiceflyers.com</span>
+							<span><i class="fa fa-envelope-o"></i>support@voiceflyers.com</span>
 						</p>
 						<ul class="social-icons">
 							<li><a class="facebook" href="https://www.facebook.com/VFlyers"><i class="fa fa-facebook"></i></a></li>

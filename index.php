@@ -296,39 +296,10 @@
 								</div>
 							</div>
 						</div>
-						
-						
-												
-
 					</div>
 				</div>
 				<img class="shadow-image" alt="" src="images/shadow.png">
 			</div>
-
-			
-
-			
-
-			
-
-			
-
-			
-
-		
-
-			
-
-			<!-- Convertible-banner -->
-			<div class="convertible-banner">
-				<div class="container">
-					<a href="#">Learn More</a>
-					<p><span>Voice Flyers</span> The most complete PSD Template with pixel perfect design available only on themeforest</p>
-				</div>
-			</div>
-
-			
-
 		</div>
 		<!-- End content -->
 
