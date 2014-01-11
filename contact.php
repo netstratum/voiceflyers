@@ -68,3 +68,8 @@
 		</div>
 		<!-- End content -->
 <?php include('footer.php'); ?>
+<script type="text/javascript">
+	$(document).ready(function($) {
+		jQuery('.nav li a:eq(3)').addClass('active');
+	}
+</script>

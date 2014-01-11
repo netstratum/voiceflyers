@@ -6,10 +6,6 @@ var $ = jQuery.noConflict();
 $(document).ready(function($) {
 	"use strict";
 
-	$('.nav li a').click(function(e){
-		$('.nav li a').each(function(e, i){$(i).removeClass("active");});
-		e.target.className="active";
-	});
 
 	/*-------------------------------------------------*/
 	/* =  portfolio isotope
