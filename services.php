@@ -40,9 +40,6 @@
 								<li>
 									<p>1,20,000 ads in 1 year - Rs 1,80,000</p>
 								</li>
-								<li>
-									<a href="#">Order Now</a>
-								</li>
 							</ul>
 						</div>
 
@@ -53,25 +50,22 @@
 									<span>Product/Service Intro Ads</span>
 								</li>
 								<li>
-									<p>7,000 ads in 1 week - Rs 10,000</p>
+									<p>7,000 ads in 1 week - Rs 20,000</p>
 								</li>
 								<li>
-									<p>15,000 ads in 1 month - Rs 25,000</p>
+									<p>15,000 ads in 1 month - Rs 50,000</p>
 								</li>
 								<li>
-									<p>30,000 ads in 3 month - Rs 50,000</p>
+									<p>30,000 ads in 3 month - Rs 1,00,000</p>
 								</li>
 								<li>
-									<p>45,000 ads in 3 month - Rs 75,000</p>
+									<p>45,000 ads in 3 month - Rs 1,50,000</p>
 								</li>
 								<li>
-									<p>60,000 ads in 6 months - Rs 90,000</p>
+									<p>60,000 ads in 6 months - Rs 1,80,000</p>
 								</li>
 								<li>
-									<p>1,20,000 ads in 1 year - Rs 1,80,000</p>
-								</li>
-								<li>
-									<a href="#">Order Now</a>
+									<p>1,20,000 ads in 1 year - Rs 3,60,000</p>
 								</li>
 							</ul>
 						</div>
@@ -83,25 +77,22 @@
 									<span>Information Ads</span>
 								</li>
 								<li>
-									<p>7,000 ads in 1 week - Rs 10,000</p>
+									<p>7,000 ads in 1 week - Rs 30,000</p>
 								</li>
 								<li>
-									<p>15,000 ads in 1 month - Rs 25,000</p>
+									<p>15,000 ads in 1 month - Rs 75,000</p>
 								</li>
 								<li>
-									<p>30,000 ads in 3 month - Rs 50,000</p>
+									<p>30,000 ads in 3 month - Rs 1,50,000</p>
 								</li>
 								<li>
-									<p>45,000 ads in 3 month - Rs 75,000</p>
+									<p>45,000 ads in 3 month - Rs 2,25,000</p>
 								</li>
 								<li>
-									<p>60,000 ads in 6 months - Rs 90,000</p>
+									<p>60,000 ads in 6 months - Rs 2,70,000</p>
 								</li>
 								<li>
-									<p>1,20,000 ads in 1 year - Rs 1,80,000</p>
-								</li>
-								<li>
-									<a href="#">Order Now</a>
+									<p>1,20,000 ads in 1 year - Rs 5,40,000</p>
 								</li>
 							</ul>
 						</div>
