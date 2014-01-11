@@ -7,7 +7,8 @@ $(document).ready(function($) {
 	"use strict";
 
 	$('.nav li a').click(function(e){
-		console.log("clicked" + e);
+		$('.nav li a').each(function(e, i){$(i).removeClass("active");});
+		e.target.className="active";
 	});
 
 	/*-------------------------------------------------*/
