@@ -21,7 +21,7 @@
 								<ul class="contact-information-list">
 									<li><span><i class="fa fa-home"></i>lorem ipsum street</span></li>
 									<li><span><i class="fa fa-phone"></i>+91 949 633 4414</span></li>
-									<li><a href="#"><i class="fa fa-envelope"></i>contact@voiceflyers.com</a></li>
+									<li><a href="#"><i class="fa fa-envelope"></i>support@voiceflyers.com</a></li>
 								</ul>
 							</div>
 						</div>
@@ -41,18 +41,18 @@
 
 								<div class="text-input">
 									<div class="float-input">
-										<input name="name" id="name2" type="text" placeholder="name">
+										<input name="name" id="name2" type="text" placeholder="name" required>
 										<span><i class="fa fa-user"></i></span>
 									</div>
 
 									<div class="float-input2">
-										<input name="mail" id="mail2" type="text" placeholder="email">
+										<input name="mail" id="mail2" type="text" placeholder="email" required>
 										<span><i class="fa fa-envelope"></i></span>
 									</div>
 								</div>
 
 								<div class="textarea-input">
-									<textarea name="comment" id="comment2" placeholder="message"></textarea>
+									<textarea name="comment" id="comment2" placeholder="message" required></textarea>
 									<span><i class="fa fa-comment"></i></span>
 								</div>
 

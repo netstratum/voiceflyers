@@ -2522,6 +2522,7 @@ ul.pricing-table li p {
     color: #555555;
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
 ul.pricing-table li:first-child p {

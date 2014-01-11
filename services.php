@@ -6,8 +6,8 @@
 				<div class="container">
 					<h2>Services</h2>
 					<ul class="page-tree">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Services</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="services.php">Services</a></li>
 					</ul>
 				</div>
 			</div>

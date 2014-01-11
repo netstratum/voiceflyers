@@ -15,7 +15,7 @@
 				<img class="shadow-image" alt="" src="images/shadow.png">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12">
+						<div class="col-md-10">
 							<span class="anchor" id="company"></span>
 							<div class="services-post">
 								<a class="services-icon1" href="#"><i class="fa fa-users"></i></a>
@@ -40,7 +40,7 @@
 					</div>
 
 					<div class="row">
-						<div class="col-md-12">
+						<div class="col-md-10">
 							<span class="anchor" id="whatwedo"></span>
 							<div class="services-post">
 								<a class="services-icon2" href="#"><i class="fa fa-bullhorn"></i></a>
@@ -65,7 +65,7 @@
 					</div>
 
 					<div class="row">
-						<div class="col-md-12">
+						<div class="col-md-10">
 							<span class="anchor" id="whyvf"></span>
 							<div class="services-post">
 								<a class="services-icon3" href="#"><i class="fa fa-phone"></i></a>
@@ -93,7 +93,7 @@
 					</div>
 
 					<div class="row">
-						<div class="col-md-12">
+						<div class="col-md-10">
 							<span class="anchor" id="analysis"></span>
 							<div class="services-post">
 								<a class="services-icon3" href="#"><i class="fa fa-tachometer"></i></a>
