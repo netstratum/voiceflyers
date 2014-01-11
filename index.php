@@ -264,41 +264,70 @@
 
 			<!-- services-box -->
 			<div class="services-box">
+				<img class="shadow-image" alt="" src="images/shadow.png">
 				<div class="container">
 					<div class="row">
 
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="services-post">
-								<a class="services-icon1" href="#"><i class="fa fa-cogs"></i></a>
+								<a class="services-icon1" href="#"><i class="fa fa-users"></i></a>
 								<div class="services-post-content">
 									<h4>COMPANY</h4>
-									<p>Voice Flyers is a company that is into new age marketing of products and services focusing on brand reinforcements synchronizing with the telecom sector. Headed by a group of young budding entrepreneurs, the company has its office at Cochin. The operations were launched in January 2014, providing customized services to different clients, who aims to create or reinforce the brand awareness of their products or services among the customers. The company takes constant efforts to improve the quality of its service by taking feedbacks from its clients and hence introducing the necessary changes to the software which acts as the brain of the system, hence continuously improving the effectiveness of the inter phase system...</p>
+									<p>Voice Flyers is a company that is into new age marketing of products and services focusing 
+										on brand reinforcements synchronizing with the telecom sector. Headed by a group of young 
+										budding entrepreneurs, the company has its office at Cochin. The operations were launched 
+										in January 2014, providing customized services to different clients, who aims to create or 
+										reinforce the brand awareness of their products or services among the customers....
+									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="services-post">
-								<a class="services-icon2" href="#"><i class="fa fa-desktop"></i></a>
+								<a class="services-icon2" href="#"><i class="fa fa-bullhorn"></i></a>
 								<div class="services-post-content">
 									<h4>WHAT WE DO</h4>
-									<p>Voice Flyers as a company has access to more than 1,00,000 registered users who are willing to avail our service and synchronize our service with their telecom system. The audio ad streams played between the end of the dial and beginning of the call is the time slot where Voice Flyers subconsciously reinforces the brands of the clients into the minds of the customers. Since these ads are short and precise, catering into a customized group, it enables us to serve the best ads to the most relevant customer group hence acquiring high levels of targeting, respective to each brand. The preciseness and the customization of the ads served ensure that the ads are never disturbing for a customer by never waiting him too long for a call to be connected...</p>
+									<p>Voice Flyers as a company has access to more than 1,00,000 registered users who are willing to 
+										avail our service and synchronize our service with their telecom system. The audio ad streams 
+										played between the end of the dial and beginning of the call is the time slot where Voice Flyers 
+										subconsciously reinforces the brands of the clients into the minds of the customers....
+									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="services-post">
-								<a class="services-icon3" href="#"><i class="fa fa-book"></i></a>
+								<a class="services-icon3" href="#"><i class="fa fa-phone"></i></a>
 								<div class="services-post-content">
 									<h4>WHY VOICE FLYERS</h4>
-									<p>With more advertising companies than the actual number of existing brands, it would be genuine to question the need for one more new entrant into creating brand awareness and reinforcement. Here is where Voice Flyers has a USP that distinguishes our self from the other advertisement firms. Here at Voice Flyers, we concentrate our focus on delivering real One to One ads to the customers. Unlike the ads played on a radio or a television which are primarily one to many ads, delivered to the universal set of all listeners or viewers, the ads served by Voice Flyers is focused on one listener at a time. Hence these ads are more customer centric, communicating on a personal note with the customer without any disturbances in between...</p>
+									<p>With more advertising companies than the actual number of existing brands, it would be 
+										genuine to question the need for one more new entrant into creating brand awareness and 
+										reinforcement. Here is where Voice Flyers has a USP that distinguishes our self from the 
+										other advertisement firms. Here at Voice Flyers, we concentrate our focus on delivering real 
+										One to One ads to the customers....
+									</p>
 								</div>
 							</div>
 						</div>
+
+						<div class="col-md-3">
+							<div class="services-post">
+								<a class="services-icon3" href="#"><i class="fa fa-tachometer"></i></a>
+								<div class="services-post-content">
+									<h4>INTERPHASE &amp; ANALYSIS</h4>
+									<p>A proper mapping of the ads played, relative to each client is done by the software, designed so 
+										as to enable the clients to get a proper tracking of the ads together with providing exclusivity of 
+										the ads relative to the end customer. The software is programmed in such a way that it ensures 
+										that the same ads are not repeatedly streamed to the same customers consecutively....
+									</p>
+								</div>
+							</div>
+						</div>
+
 					</div>
 				</div>
-				<img class="shadow-image" alt="" src="images/shadow.png">
 			</div>
 		</div>
 		<!-- End content -->
