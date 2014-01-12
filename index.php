@@ -293,8 +293,8 @@
 										on brand reinforcements synchronizing with the telecom sector. Headed by a group of young 
 										budding entrepreneurs, the company has its office at Cochin. The operations were launched 
 										in January 2014, providing customized services to different clients, who aims to create or 
-										reinforce the brand awareness of their products or services among the customers....
-										<br>
+										reinforce the brand awareness of their products or services among the customers.
+										<br><br>
 										<a href="about.php#company">Read More</a>
 									</p>
 								</div>
@@ -309,8 +309,8 @@
 									<p>Voice Flyers as a company has access to more than 1,00,000 registered users who are willing to 
 										avail our service and synchronize our service with their telecom system. The audio ad streams 
 										played between the end of the dial and beginning of the call is the time slot where Voice Flyers 
-										subconsciously reinforces the brands of the clients into the minds of the customers....
-										<br>
+										subconsciously reinforces the brands of the clients into the minds of the customers.
+										<br><br>
 										<a href="about.php#whatwedo">Read More</a>
 									</p>
 								</div>
@@ -330,8 +330,8 @@
 										genuine to question the need for one more new entrant into creating brand awareness and 
 										reinforcement. Here is where Voice Flyers has a USP that distinguishes our self from the 
 										other advertisement firms. Here at Voice Flyers, we concentrate our focus on delivering real 
-										One to One ads to the customers....
-										<br>
+										One to One ads to the customers.
+										<br><br>
 										<a href="about.php#whyvf">Read More</a>
 									</p>
 								</div>
@@ -346,8 +346,8 @@
 									<p>A proper mapping of the ads played, relative to each client is done by the software, designed so 
 										as to enable the clients to get a proper tracking of the ads together with providing exclusivity of 
 										the ads relative to the end customer. The software is programmed in such a way that it ensures 
-										that the same ads are not repeatedly streamed to the same customers consecutively....
-										<br>
+										that the same ads are not repeatedly streamed to the same customers consecutively.
+										<br><br>
 										<a href="about.php#analysis">Read More</a>
 									</p>
 								</div>
