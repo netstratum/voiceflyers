@@ -17,7 +17,7 @@
 						<!-- THE FIRST SLIDE -->
 						<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300">
 							<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-							<img alt="" src="upload/slider-revolution/1.gif" >
+							<img alt="" src="upload/slider-revolution/2.jpg" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 							<div class="caption large_text sfb"
@@ -121,7 +121,7 @@
 						<!-- THE second SLIDE -->
 						<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
 							<!-- THE MAIN IMAGE IN THE second SLIDE -->
-							<img alt="" src="upload/slider-revolution/2.jpg" >
+							<img alt="" src="upload/slider-revolution/1.gif" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 
