@@ -161,14 +161,14 @@
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullhorn"></i>Brand Reinforcement</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="578"
+								 data-x="678"
 								 data-y="148"
 								 data-speed="600"
 								 data-start="2000"
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-phone"></i>One to One</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="578"
+								 data-x="678"
 								 data-y="294"
 								 data-speed="600"
 								 data-start="2000"
@@ -181,13 +181,15 @@
 							<img alt="" src="upload/slider-revolution/3.jpg" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
+							<!--
 							<div class="caption large_text sfb"
 								 data-x="0"
 								 data-y="185"
 								 data-speed="600"
 								 data-start="1200"
 								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Hello and welcome to <span> Voice Flyers</span></div>
-
+							-->
+							
 							<div class="caption medium_grey sft stt"
 								 data-x="0"
 								 data-y="224"
