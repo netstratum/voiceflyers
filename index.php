@@ -17,7 +17,7 @@
 						<!-- THE FIRST SLIDE -->
 						<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300">
 							<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-							<img alt="" src="upload/slider-revolution/1.jpg" >
+							<img alt="" src="upload/slider-revolution/1.gif" >
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 							<div class="caption large_text sfb"
@@ -189,7 +189,7 @@
 								 data-start="1200"
 								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Hello and welcome to <span> Voice Flyers</span></div>
 							-->
-							
+
 							<div class="caption medium_grey sft stt"
 								 data-x="0"
 								 data-y="224"
