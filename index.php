@@ -32,7 +32,7 @@
 								 data-y="185"
 								 data-speed="500"
 								 data-start="1400"
-								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/voiceflyers.png" alt="voiceflyers"></div>
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><span>Voice Flyers - A new medium of Advertising</span></div>
 
 							<div class="caption randomrotate"
 								 data-x="0"
@@ -125,12 +125,12 @@
 
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 
-							<div class="caption randomrotate"
-								 data-x="720"
-								 data-y="130"
+							<div class="caption large_text sfb"
+								 data-x="170"
+								 data-y="128"
 								 data-speed="600"
 								 data-start="1200"
-								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" ><span>What we offer</span></div>
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >What We Offer</div>
 
 							<div class="caption modern_medium_light sft stt"
 								 data-x="150"
