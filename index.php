@@ -25,14 +25,14 @@
 								 data-y="128"
 								 data-speed="600"
 								 data-start="1200"
-								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Welcome to the Most Complete Html Template</div>
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Welcome to the one and only VOIP Advertising Company</div>
 
 							<div class="caption big_white sft stt"
 								 data-x="370"
 								 data-y="185"
 								 data-speed="500"
 								 data-start="1400"
-								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><span>Voice Flyers</span> - Creative All Purpose Design</div>
+								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/voiceflyers.png" alt="voiceflyers"></div>
 
 							<div class="caption randomrotate"
 								 data-x="0"
@@ -130,65 +130,65 @@
 								 data-y="130"
 								 data-speed="600"
 								 data-start="1200"
-								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/image.png" alt="Image 1"></div>
+								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" ><span>What we offer</span></div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="110"
-								 data-y="148"
+								 data-x="150"
+								 data-y="168"
 								 data-speed="500"
 								 data-start="1500"
 								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-users"></i>Better Reach</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="394"
-								 data-y="148"
+								 data-x="444"
+								 data-y="168"
 								 data-speed="600"
 								 data-start="1600"
 								 data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullseye"></i>Targeted Audience</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="110"
-								 data-y="294"
+								 data-x="150"
+								 data-y="314"
 								 data-speed="600"
 								 data-start="1800"
 								 data-easing="easeOutExpo" data-end="7400" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-tachometer"></i>Analytics</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="394"
-								 data-y="294"
+								 data-x="444"
+								 data-y="314"
 								 data-speed="600"
 								 data-start="2000"
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullhorn"></i>Brand Reinforcement</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="678"
-								 data-y="148"
+								 data-x="728"
+								 data-y="168"
 								 data-speed="600"
 								 data-start="2000"
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-phone"></i>One to One</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="678"
-								 data-y="294"
+								 data-x="728"
+								 data-y="314"
 								 data-speed="600"
 								 data-start="2000"
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-signal"></i>Increase in ROI</div>
 						</li>
 
 						<!-- THE third SLIDE -->
+						<!--
 						<li data-transition="turnoff" data-slotamount="1" data-masterspeed="300">
-							<!-- THE MAIN IMAGE IN THE third SLIDE -->
+							
 							<img alt="" src="upload/slider-revolution/3.jpg" >
 
-							<!-- THE CAPTIONS IN THIS SLDIE -->
-							<!--
+							
 							<div class="caption large_text sfb"
 								 data-x="0"
 								 data-y="185"
 								 data-speed="600"
 								 data-start="1200"
 								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >Hello and welcome to <span> Voice Flyers</span></div>
-							-->
+							
 
 							<div class="caption medium_grey sft stt"
 								 data-x="0"
@@ -260,6 +260,7 @@
 								 data-start="2500"
 								 data-easing="easeOutExpo" data-end="8300" data-endspeed="300" data-endeasing="easeInSine" ><img src="images/slider-icons/icon11.png" alt="Image 10"></div>
 						</li>
+					-->
 					</ul>
 				</div>
 			</div>
@@ -271,13 +272,14 @@
 		<div id="content">
 
 			<!-- welcome-box -->
+			<!--
 			<div class="welcome-box">
 				<div class="container">
 					<h1>Hello And Welcome To <span>Voice Flyers</span></h1>
 					<p>We’re an interactive agency specialising in lean UX and intelligent product and identity design</p>
 				</div>
 			</div>
-
+			-->
 			<!-- services-box -->
 			<div class="services-box">
 				<img class="shadow-image" alt="" src="images/shadow.png">

@@ -6,6 +6,7 @@ var $ = jQuery.noConflict();
 $(document).ready(function($) {
 	"use strict";
 
+	$("a[href*='" + location.pathname + "']").addClass("active");
 
 	/*-------------------------------------------------*/
 	/* =  portfolio isotope
