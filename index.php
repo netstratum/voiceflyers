@@ -359,9 +359,4 @@
 			</div>
 		</div>
 		<!-- End content -->
-<script type="text/javascript">
-	jQuery(document).ready(function($) {
-		jQuery('.nav li a:eq(0)').addClass('active');
-	}
-</script>
 <?php include('footer.php'); ?>
