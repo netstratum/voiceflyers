@@ -133,42 +133,42 @@
 								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >What We Offer</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="150"
+								 data-x="160"
 								 data-y="168"
 								 data-speed="500"
 								 data-start="1500"
 								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-users"></i>Better Reach</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="444"
+								 data-x="454"
 								 data-y="168"
 								 data-speed="600"
 								 data-start="1600"
 								 data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullseye"></i>Targeted Audience</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="150"
+								 data-x="160"
 								 data-y="314"
 								 data-speed="600"
 								 data-start="1800"
 								 data-easing="easeOutExpo" data-end="7400" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-tachometer"></i>Analytics</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="444"
+								 data-x="454"
 								 data-y="314"
 								 data-speed="600"
 								 data-start="2000"
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-bullhorn"></i>Brand Reinforcement</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="728"
+								 data-x="738"
 								 data-y="168"
 								 data-speed="600"
 								 data-start="2000"
 								 data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine" ><i class="fa fa-phone"></i>One to One</div>
 
 							<div class="caption modern_medium_light sft stt"
-								 data-x="728"
+								 data-x="738"
 								 data-y="314"
 								 data-speed="600"
 								 data-start="2000"
