@@ -33,7 +33,7 @@
 								 data-speed="500"
 								 data-start="1400"
 								 data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine" ><span>Voice Flyers - A new medium of Advertising</span></div>
-
+							<!--
 							<div class="caption randomrotate"
 								 data-x="0"
 								 data-y="244"
@@ -117,6 +117,7 @@
 								 data-speed="600"
 								 data-start="2700"
 								 data-easing="easeOutExpo" data-end="7850" data-endspeed="300" data-endeasing="easeInSine" >Fast Loading</div>
+							-->
 						</li>
 						<!-- THE second SLIDE -->
 						<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
@@ -126,8 +127,8 @@
 							<!-- THE CAPTIONS IN THIS SLDIE -->
 
 							<div class="caption large_text sfb"
-								 data-x="170"
-								 data-y="128"
+								 data-x="140"
+								 data-y="98"
 								 data-speed="600"
 								 data-start="1200"
 								 data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine" >What We Offer</div>
