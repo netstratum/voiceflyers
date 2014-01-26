@@ -5,8 +5,8 @@ var $ = jQuery.noConflict();
 
 $(document).ready(function($) {
 	"use strict";
-
-	$("a[href*='" + location.pathname + "']").addClass("active");
+	var path = location.pathname.length == 1 ? location.pathname : location.pathname.replace('/','');
+	$("a[href*='" + path + "']").addClass("active");
 
 	/*-------------------------------------------------*/
 	/* =  portfolio isotope
